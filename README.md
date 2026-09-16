@@ -39,6 +39,7 @@ Represents the number of patients with successful/discharged outcomes.
 ---
 
 ## 📊 Dashboard Visualizations
+<a href ="https://github.com/ManojKumarB17/Healthcare-Hospital-PowerBI-Dashboard/blob/main/health.jpeg">view dashboard</a>
 
 ### 1. Monthly Patient Admissions Trend
 
