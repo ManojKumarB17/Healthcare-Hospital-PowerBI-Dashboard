@@ -134,6 +134,8 @@ The dashboard includes outcomes such as:
 
 ---
 
+<img width="1247" height="705" alt="Screenshot 2026-09-01 102933" src="https://github.com/ManojKumarB17/Healthcare-Hospital-PowerBI-Dashboard/blob/main/health.jpeg" />
+
 ## 🎛️ Interactive Filters
 
 The dashboard contains interactive slicers for:
