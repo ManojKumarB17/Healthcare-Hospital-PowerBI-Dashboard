@@ -193,6 +193,4 @@ The dashboard transforms healthcare data into meaningful visual insights and dem
 
 ---
 
-## 🖼️ Dashboard Preview
 
-![Healthcare & Hospital Dashboard](Dashboard.png)
